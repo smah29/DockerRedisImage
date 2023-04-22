@@ -1,2 +1,2 @@
-docker build -t shreyoshi/redis:latest .
-docker run shreyoshi/redis
+- docker build -t shreyoshi/redis:latest .
+- docker run shreyoshi/redis
